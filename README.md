@@ -5,6 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="mailto:pubbba099@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  <img src="[https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" height="40" />
 </a>
 
 <br />
@@ -26,4 +27,8 @@ Hi, I'm Pubudu Asiri, a senior frontend developer from Codinglegends. Dedicated 
 </p>
 
 <!-- badge_plugin_start -->
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+  <img src="[https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)" height="40" />
+  
+  
 
