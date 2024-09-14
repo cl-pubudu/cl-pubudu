@@ -26,9 +26,6 @@ Hi, I'm Pubudu Asiri, a senior frontend developer from Codinglegends. Dedicated 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
 
-<!-- badge_plugin_start -->
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40" />
-  <img src="[https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)" height="40" />
   
   
 
