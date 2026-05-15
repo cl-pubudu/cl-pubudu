@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://www.blackcater.win/" target="_blank">Pubudu Asiri AKA Zenitsu</a> <img
+<h1 align="center">Hello, I'm <a href="https://www.blackcater.win/" target="_blank">Pubudu Perera AKA Zenitsu</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
@@ -11,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Pubudu Asiri, a senior frontend developer from Codinglegends. Dedicated to being a fullstack developer.
+Hi, I'm Pubudu Perera, a senior frontend developer from Codinglegends. Dedicated to being a fullstack developer.
 
 <a href="#"><img align="right" src="/images/zenitsu.gif" width="250" height="250" /></a>
 
